@@ -4,3 +4,5 @@ It is useful for beginners learning asynchronous programming and understanding h
 
 The function saveToDb() simulates saving data to a database using a Promise.
 It logs the data and then intentionally triggers an error to show how .catch() works.
+
+the second example is about simple JavaScript project that checks whether a user-entered age is even or odd using Promises.
